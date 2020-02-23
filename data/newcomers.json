@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Inkling",
+    "series": "Splatoon",
+    "reveal_date": "2018-03-08",
+    "popularity_file": "./data/splatoon.csv"
+  },
+  {
+    "name": "Daisy",
+    "series": "Mario",
+    "reveal_date": "2018-06-12",
+    "popularity_file": "./data/mario.csv"
+  },
+  {
+    "name": "Ridley",
+    "series": "Metroid",
+    "reveal_date": "2018-06-12",
+    "popularity_file": "./data/metroid.csv"
+  },
+  {
+    "name": "Dark Samus",
+    "series": "Metroid",
+    "reveal_date": "2018-08-08",
+    "popularity_file": "./data/metroid.csv"
+  },
+  {
+    "name": "Chrom",
+    "series": "Fire Emblem",
+    "reveal_date": "2018-08-08",
+    "popularity_file": "./data/fire emblem.csv"
+  },
+  {
+    "name": "Simon",
+    "series": "Castlevania",
+    "reveal_date": "2018-08-08",
+    "popularity_file": "./data/castlevania.csv"
+  },
+  {
+    "name": "Richter",
+    "series": "Castlevania",
+    "reveal_date": "2018-08-08",
+    "popularity_file": "./data/castlevania.csv"
+  },
+  {
+    "name": "King K. Rool",
+    "series": "Donkey Kong",
+    "reveal_date": "2018-08-08",
+    "popularity_file": "./data/donkey kong.csv"
+  },
+  {
+    "name": "Isabelle",
+    "series": "Animal Crossing",
+    "reveal_date": "2018-09-13",
+    "popularity_file": "./data/animal crossing.csv"
+  },
+  {
+    "name": "Ken",
+    "series": "Street Fighter",
+    "reveal_date": "2018-11-01",
+    "popularity_file": "./data/street fighter.csv"
+  },
+  {
+    "name": "Incineroar",
+    "series": "Pokémon",
+    "reveal_date": "2018-11-01",
+    "popularity_file": "./data/pokémon.csv"
+  },
+  {
+    "name": "Piranha Plant",
+    "series": "Mario",
+    "reveal_date": "2018-11-01",
+    "popularity_file": "./data/mario.csv"
+  },
+  {
+    "name": "Joker",
+    "series": "Persona",
+    "reveal_date": "2018-12-07",
+    "popularity_file": "./data/persona.csv"
+  },
+  {
+    "name": "Hero",
+    "series": "Dragon Quest",
+    "reveal_date": "2019-07-11",
+    "popularity_file": "./data/dragon quest.csv"
+  },
+  {
+    "name": "Banjo-Kazooie",
+    "series": "Banjo-Kazooie",
+    "reveal_date": "2019-07-11",
+    "popularity_file": "./data/banjo-kazooie.csv"
+  },
+  {
+    "name": "Terry",
+    "series": "Fatal Fury",
+    "reveal_date": "2019-09-04",
+    "popularity_file": "./data/fatal fury.csv"
+  },
+  {
+    "name": "Byleth",
+    "series": "Fire Emblem",
+    "reveal_date": "2020-01-16",
+    "popularity_file": "./data/fire emblem.csv"
+  }
+]
