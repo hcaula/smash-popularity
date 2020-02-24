@@ -18,7 +18,11 @@ A list of characters head icons (found on the `/icons` directory) was found in t
 
 ## Data processing
 
-Python and Jupyter Notebook were used to process the data. All that was needed was to read the data collected from the Google Trends, filter the popularity from before and after the character's announcement, take the mean value and subtract them. Since they are already in percentage (relative to the search term itself), no further operation was necessary.
+Python and Jupyter Notebook were used to process the data. All that was needed was to read the data collected from the Google Trends, filter the popularity from before and after the character's announcement, take the mean value and subtract them. Since they are already in percentage (relative to the search term itself), no further operation was necessary. The final dataframe was imported to a CSV file, found on `/outputs/popularity_gains.csv`.
+
+## Data visualization
+
+The CSV file was exported to Google Sheets. From there, a bar graph was generated and exported as a PNG image. To make it look nice, I edited it using [Pixlr](https://pixlr.com/e).
 
 ## Author
 
